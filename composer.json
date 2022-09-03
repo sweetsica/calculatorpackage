@@ -12,5 +12,12 @@
             "Sweetsica\\Calculator\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sweetsica\\Calculator\\CalculatorServiceProvider"
+            ]
+        }
+    },
     "require": {}
 }
