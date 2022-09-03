@@ -1,0 +1,16 @@
+{
+    "name": "sweetsica/calculator",
+    "description": "this is first package by sweetsica",
+    "authors": [
+        {
+            "name": "sweetsica",
+            "email": "barondeepsnow@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sweetsica\\Calculator\\": "src/"
+        }
+    },
+    "require": {}
+}
